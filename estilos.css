@@ -1,0 +1,40 @@
+/*.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}*/
+
+.carousel {
+    margin-bottom: 40px;
+    
+}
+
+h1 ~ p {
+    margin: 12px;
+    text-align: justify;
+}
+
+.footer {
+    margin-bottom: 0px;
+    width: 100%;
+    height: 120px;
+    position: static;
+    bottom: 0px;
+    margin: 0;
+    background-color: rgba(211, 211, 211, 0.805)
+}
+
+.footer > .col-4 > ul {
+    text-align: left;
+    list-style-type: none;
+}
+
+.col-4 {
+    text-align: center;
+}
+
+#Contacto-footer > a {
+    margin-right: 10px;
+}
+
